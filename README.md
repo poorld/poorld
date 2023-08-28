@@ -79,24 +79,3 @@ alt="gtihub-visitors" />
 <img src="https://badges.strrl.dev/commits/monthly/poorld?style=flat-square&color=black&logo=github">
 </a>
 </p>
-
-<h2>Hello</h2>
-
-
-<tr>
-    <td>
-        <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220"
-        title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-        ### 🧠 Web and code
-        <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-        <!-- START_SECTION:brain -->
-        * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-        * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-        * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-        * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
-        * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
-        <!-- END_SECTION:brain -->
-    </td>
-</tr>
-
-
