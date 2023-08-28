@@ -5,12 +5,6 @@ alt="gtihub-visitors" />
 
 ## Hi, 👋 I'm <a href="https://github.com/poorld">Poorld</a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI">
-
-
-✨ poorld的自我介绍
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poorld&show_icons=true&theme=transparent)
 
 <br>
 <a href="https://github.com/poorld">
@@ -28,3 +22,12 @@ alt="gtihub-visitors" />
 <a href="https://github.com/poorld">
 <img src="https://badges.strrl.dev/commits/monthly/poorld?style=flat-square&color=black&logo=github">
 </a>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI">
+
+
+✨ poorld的自我介绍
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poorld&show_icons=true&theme=transparent)
+
+
